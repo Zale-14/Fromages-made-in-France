@@ -1,10 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Zale-14/Fromages-made-in-France/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+##  Ce diagramme est une représentation des différents types de fromages faits à base du lait de vache dans différents départements de la 
+<iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbeyJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQ09VTlQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1jdXN0b20ifV0sImNvbmZpZyI6eyJkYXRhc2V0IjoiZnJvbWFnZXNjc3YtZnJvbWFnZXNjc3ZAcHVibGljIiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS5mcm9tYWdlIjp0cnVlLCJyZWZpbmUubGFpdCI6IlZhY2hlIn19LCJ4QXhpcyI6ImZyb21hZ2UiLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIiwic2VyaWVzQnJlYWtkb3duIjoibGFpdCJ9XSwiYWxpZ25Nb250aCI6dHJ1ZSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
+###  Ce diagramme est une représenation des différents types de fromages faits à base du lait de chèvre 
+<iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbeyJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQ09VTlQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1jdXN0b20ifV0sImNvbmZpZyI6eyJkYXRhc2V0IjoiZnJvbWFnZXNjc3YtZnJvbWFnZXNjc3ZAcHVibGljIiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS5mcm9tYWdlIjp0cnVlLCJyZWZpbmUubGFpdCI6IkNoXHUwMEU4dnJlIn19LCJ4QXhpcyI6ImxhaXQiLCJtYXhwb2ludHMiOjEwMCwic29ydCI6IiIsInNlcmllc0JyZWFrZG93biI6ImZyb21hZ2UiLCJzdGFja2VkIjoicGVyY2VudCJ9XSwiYWxpZ25Nb250aCI6dHJ1ZSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZX0%3D&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
